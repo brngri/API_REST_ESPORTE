@@ -3,7 +3,7 @@
 ## Descrição: 
 Esta API permite a gestão de atividades esportivas. Os endpoints disponíveis permitem listar todos os itens, obter detalhes de um item específico pelo seu ID, adicionar novos itens e excluir itens existentes.
 
-## Tecnologia ultilzada:
+## Tecnologia utilizada:
 
 - Linguagem: Java
 
